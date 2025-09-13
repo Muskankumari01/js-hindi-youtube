@@ -12,12 +12,12 @@ console.log("Muskan")
 let name = "Muskan" // string datatype 
 let age = 18  // number datatype
 let isLoggedIn = false // boolean datatype
-let state;
+let state; // undefined
 
 
 // this down all is (primitive datatype upto symbol)
 // number => 2 to power 53
-// bigint 
+// bigint (mostly not used in programmimg)
 // string =>""
 // boolean => true or false
 // null => standalone value
